@@ -42,7 +42,9 @@ SO THAT my company can compete with other e-commerce companies
 * Please contact me via my [Github Username](https://github.com/hinnenk2)
 
 # Screenshot
+![Screen Shot 2023-06-04 at 5 30 25 PM](https://github.com/hinnenk2/ecommerce-backend/assets/124109780/85c739b2-5c2e-4313-9eb6-caf2592075e9)
 
 ## Repo
 https://github.com/hinnenk2/ecommerce-backend
 ## WalkThrough Video
+[ecommerce_insomnia.webm](https://github.com/hinnenk2/ecommerce-backend/assets/124109780/6b723d40-b849-4a6e-bbd2-6a2cbf9e538b)
